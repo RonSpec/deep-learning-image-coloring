@@ -32,7 +32,7 @@ The repository contains the implementation of a GAN-based model for colorizing g
    ```
 2. Navigate to the project directory:
    ```bash
-   cd image-colorization-gan
+   cd deep-learning-image-coloring
    ```
 3. Install the required dependencies:
    ```bash
